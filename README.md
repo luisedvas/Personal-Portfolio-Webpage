@@ -8,6 +8,13 @@ Personal Portfolio
     <link rel="stylesheet" type="text/css" href="styles.css">
   </head>
   <body>
+    <nav id="navbar" class="nav">
+    <ul class="nav-list">
+      <li><a href="#welcome-section"></a>About</li>
+      <li><a href="#projects"></a>Work</li>
+      <li><a href="#contact"></a>Contact</li>
+    </ul>
+    </nav>
     <section id="welcome-section">
       <h1>Hey I´m Luis</h1>
       <p>a web developer</p>
@@ -32,12 +39,10 @@ Personal Portfolio
         <a href="https://codepen.io/freeCodeCamp/full/KzXQgy" target="_blank">Tic Tac Toe Game</a>
       </article>
     </section>
-    <navbar id="navbar">
-    <ul>
-      <li><a href="#about"></a>About</li>
-      <li><a href="#work"></a>Work</li>
-      <li><a href="#contact"></a>Contact</li>
-    </ul>
-    </navbar>
+    <a id="profile-link" target="_blank">Facebook</a>
+    <a id="profile-link" target="_blank">GitHub</a>
+    <a id="profile-link" target="_blank">Twitter</a>
+    <a id="profile-link" target="_blank">Send a mail</a>
+    <a id="profile-link" target="_blank">Call me</a>
   </body>
 </html>
