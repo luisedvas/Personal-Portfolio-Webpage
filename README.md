@@ -47,6 +47,6 @@ Personal Portfolio
       <a id="profile-link" target="_blank">Twitter</a>
       <a id="profile-link" target="_blank">Send a mail</a>
       <a id="profile-link" target="_blank">Call me</a>
-    </section>
+    </section>                                      
   </body>
 </html>
