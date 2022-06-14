@@ -10,9 +10,9 @@ Personal Portfolio
   <body>
     <nav id="navbar" class="nav">
       <ul class="nav-list">
-        <li><a href="#welcome-section"></a>About</li>
-        <li><a href="#projects"></a>Work</li>
-        <li><a href="#contact"></a>Contact</li>
+        <li><a href="#welcome-section">About</a></li>
+        <li><a href="#projects">Work</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
     <section id="welcome-section">
