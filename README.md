@@ -42,6 +42,8 @@ Personal Portfolio
       </article>
     </section>
     <section id="contact>
+                 <h2>Let´s work together...</h2>
+                 <p>How do you take your coffee?</p>
       <a id="profile-link" target="_blank">Facebook</a>
       <a id="profile-link" target="_blank">GitHub</a>
       <a id="profile-link" target="_blank">Twitter</a>
