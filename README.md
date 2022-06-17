@@ -46,11 +46,11 @@ Personal Portfolio
     <section id="contact">
       <h2>Let´s work together...</h2>
       <p>How do you take your coffee</p>
-        <a href="https://www.facebook.com/freecodecamp">Facebook</a>
-        <a href="https://github.com/freecodecamp">GitHub</a>
-        <a href="https://twitter.com/freecodecamp">Twitter</a>
-        <a href="#">Send a Mail</a>
-        <a href="#">Call me</a>
+        <a  class="efecto" href="https://www.facebook.com/freecodecamp">Facebook</a>
+        <a  class="efecto" href="https://github.com/freecodecamp">GitHub</a>
+        <a  class="efecto" href="https://twitter.com/freecodecamp">Twitter</a>
+        <a  class="efecto" href="#">Send a Mail</a>
+        <a  class="efecto" href="#">Call me</a>
     </section>
     <div class="divider"> 
     </div>
