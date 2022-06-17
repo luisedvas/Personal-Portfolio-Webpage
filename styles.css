@@ -1,16 +1,15 @@
 #navbar {
   height: 90px;
-  background-color: red;
 }
 
-ul {
+.nav-list {
+  background-color: red;
+  width: 100%;
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   font-size: 24px;
-  float: right;
-  text-align: center;
 }
 
 li {
@@ -27,8 +26,9 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+.nav-list a:hover {
   background-color: gray;
+
 }
 
 #welcome-section {
@@ -51,7 +51,22 @@ li a:hover {
   font-weight: 150;
   font-size: 30px;
   margin-top: -40px;
-} 
+}
+
+#button {
+  border: solid;
+  border-color: black;
+  border-width: 3px;
+  color: white;
+  background-color: gray;
+  padding: 15px 30px;
+  font-size: 18px;
+  margin: 4px 50px;
+}
+
+#button:hover {
+  background-color: red;
+}
 
 #projects {
   background-color: blue;
