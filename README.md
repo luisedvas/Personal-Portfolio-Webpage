@@ -1,6 +1,6 @@
 # Personal-Portfolio-Webpage
 Personal Portfolio
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
@@ -17,29 +17,29 @@ Personal Portfolio
     </nav>
     <section id="welcome-section">
       <h1 class="heading-1">Hey I am Mimic</h1>
-      <p class="p-1">a web developer</p>
+      <p class="paragrafo">a web developer</p>
     </section>
     <section id="projects">
       <h2 class="heading-2">These are some of my projects</h2>
       <article class="project-tile">
-        <h3><a href="" targe="_blank">Tribute page</a></h3>
+        <h3><a href="https://codepen.io/freeCodeCamp/full/zNqgVx" target="_blank">Tribute page</a></h3>
       <article>
       <article class="project-tile">
-        <h3><a href="" target="_blank">Random quote Machine</a></h3>
+        <h3><a href="https://codepen.io/freeCodeCamp/full/qRZeGZ" target="_blank">Random quote Machine</a></h3>
       </article>
       <article class="project-tile">
-        <h3><a href="" target="_blank">JavaScript Calculator</a></h3>
+        <h3><a href="https://codepen.io/freeCodeCamp/full/wgGVVX" target="_blank">JavaScript Calculator</a></h3>
       </article>
       <article class="project-tile">
-      <h3><a href="" target="_blank">Map Data Across the Globe</a></h3>
+      <h3><a href="https://codepen.io/freeCodeCamp/full/mVEJag" target="_blank">Map Data Across the Globe</a></h3>
       </article>
       <article class="project-tile">
-        <h3><a href="" target="_blank">Wikipedia Viewer</a></h3>
+        <h3><a href="https://codepen.io/freeCodeCamp/full/wGqEga" target="_blank">Wikipedia Viewer</a></h3>
       </article>
       <article class="project-tile">
-        <h3><a href="" target="_blank">Tic Tac Toe Game</a></h3>
+        <h3><a href="https://codepen.io/freeCodeCamp/full/KzXQgy" target="_blank">Tic Tac Toe Game</a></h3>
       </article>
-      <button type="button">Show all</button>
+      <button type="button" name="button" value="Show all"></button>
     </section>
     <a id="profile-link" target="_blank">
     </a>
@@ -49,8 +49,8 @@ Personal Portfolio
         <a href="https://www.facebook.com/freecodecamp">Facebook</a>
         <a href="https://github.com/freecodecamp">GitHub</a>
         <a href="https://twitter.com/freecodecamp">Twitter</a>
-        <a href="">Send a Mail</a>
-        <a href="">Call me</a>
+        <a href="#">Send a Mail</a>
+        <a href="#">Call me</a>
     </section>
     <div class="divider"> 
     </div>
