@@ -12,7 +12,7 @@ Personal Portfolio
       <ul>
         <li><a href="#welcome-section">About</a></li>
         <li><a href="#projects">Work</a></li>
-        <li><a href="#contacts">Contact</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
     <section id="welcome-section">
