@@ -1,10 +1,11 @@
 #navbar {
   height: 90px;
+  width: 100%;
+  display: inline;
 }
 
 .nav-list {
   background-color: red;
-  width: 100%;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -13,26 +14,25 @@
 }
 
 li {
-  float: left;
   margin: 15px;
+  float: right;
 }
 
 li a {
   display: block;
   color: white;
-  text-align: center;
   margin: 0;
   padding: 14px 16px;
   text-decoration: none;
+  float: right;
 }
 
 .nav-list a:hover {
   background-color: gray;
-
 }
 
 #welcome-section {
-  background-color: black;
+  background-color: gray;
   text-align: center;
   height: 200px;
   padding: 200px;
