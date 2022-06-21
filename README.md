@@ -1,7 +1,7 @@
 # Personal-Portfolio-Webpage
 Personal Portfolio
 <!DOCTYPE html>
-<html lang="en-US">
+<html>
   <head>
     <meta charset="UTF-8">
     <title>Personal Portfolio Webpage</title>
@@ -18,54 +18,44 @@ Personal Portfolio
     </nav>
     <section id="welcome-section" class="welcome-section">
       <h1 class="heading-1">Hey I am Mimic</h1>
-      <p class="parrafo">a web developer</p>
+      <p class="paragrafo">a web developer</p>
     </section>
     <section id="projects" class="projects-section">
-      <h2 class="heading-2">These are some of my projects</h2>
-      <article class="project-title">
+      <h2 class="heading-2"><u>These are some of my projects</u></h2>
+      <article class="project-tile">
         <h3><a href="https://codepen.io/freeCodeCamp/full/zNqgVx" target="_blank">Tribute page</a></h3>
       <article>
-      <article class="project-title">
+      <article class="project-tile">
         <h3><a href="https://codepen.io/freeCodeCamp/full/qRZeGZ" target="_blank">Random quote Machine</a></h3>
       </article>
-      <article class="project-title">
+      <article class="project-tile">
         <h3><a href="https://codepen.io/freeCodeCamp/full/wgGVVX" target="_blank">JavaScript Calculator</a></h3>
       </article>
-      <article class="project-title">
-        <h3><a href="https://codepen.io/freeCodeCamp/full/mVEJag" target="_blank">Map Data Across the Globe</a></h3>
+      <article class="project-tile">
+      <h3><a href="https://codepen.io/freeCodeCamp/full/mVEJag" target="_blank">Map Data Across the Globe</a></h3>
       </article>
-      <article class="project-title">
+      <article class="project-tile">
         <h3><a href="https://codepen.io/freeCodeCamp/full/wGqEga" target="_blank">Wikipedia Viewer</a></h3>
       </article>
-      <article class="project-title">
+      <article class="project-tile">
         <h3><a href="https://codepen.io/freeCodeCamp/full/KzXQgy" target="_blank">Tic Tac Toe Game</a></h3>
       </article>
-      <button type="button" name="button" value="Show all"></button>
+      <button id="button" type="button" name="button" value="Show all">Show All</button>
     </section>
     <a id="profile-link" target="_blank">
     </a>
     <section id="contact">
       <h2 class="heading-2">Let´s work together...</h2>
-      <p>How do you take your coffee</p>
-      <div class="info-contact">
-        <a class="efecto" href="https://www.facebook.com/freecodecamp">Facebook</a>
-      </div>
-      <div class="info-contact">
-        <a class="efecto" href="https://github.com/freecodecamp">GitHub</a>
-      </div>
-      <div class="info-contact">
-        <a class="efecto" href="https://twitter.com/freecodecamp">Twitter</a>
-      </div>
-      <div class="info-contact">
-        <a class="efecto" href="#">Send a Mail</a>
-      </div>
-      <div class="info-contact">
-        <a class="efecto" href="#">Call me</a>
-      </div>  
+      <p class="paragrafo-2">How do you take your coffee?</p>
+        <a  class="efecto" href="https://www.facebook.com/freecodecamp">Facebook</a>
+        <a  class="efecto" href="https://github.com/freecodecamp">GitHub</a>
+        <a  class="efecto" href="https://twitter.com/freecodecamp">Twitter</a>
+        <a  class="efecto" href="#">Send a Mail</a>
+        <a  class="efecto" href="#">Call me</a>
     </section>
     <div class="divider"> 
     </div>
-    <footer class="footer">
+    <footer>
       <p>**This is just a fake portfolio. All the projects and contact details given are not real.</p>
       <p>© Created for <a href="https://www.freecodecamp.com/" target="_blank">freeCodeCamp <i class="fab fa-free-code-camp"></i></a></p>
     </footer>
