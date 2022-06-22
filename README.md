@@ -21,6 +21,8 @@ Personal Portfolio
       <h1 class="heading-1">Hey I am Mimic</h1>
       <p class="paragrafo">a web developer</p>
     </section>
+    <!-- End of welcome section -->
+    <!-- Start of project section -->
     <section id="projects" class="projects-section">
       <h2 class="heading-2"><u>These are some of my projects</u></h2>
       <article class="project-tile">
@@ -43,8 +45,10 @@ Personal Portfolio
       </article>
       <button id="button" type="button" name="button" value="Show all">Show All</button>
     </section>
+      <!-- End of project section -->
     <a id="profile-link" target="_blank">
     </a>
+      <!-- Start of contact section -->
     <section id="contact">
       <h2 class="heading-2">Let´s work together...</h2>
       <p class="paragrafo-2">How do you take your coffee?</p>
@@ -54,11 +58,14 @@ Personal Portfolio
         <a  class="efecto" href="#">Send a Mail</a>
         <a  class="efecto" href="#">Call me</a>
     </section>
+    <!-- End of contact section -->
     <div class="divider"> 
     </div>
+    <!-- start of footer section -->
     <footer>
       <p>**This is just a fake portfolio. All the projects and contact details given are not real.</p>
       <p>© Created for <a href="https://www.freecodecamp.com/" target="_blank">freeCodeCamp <i class="fab fa-free-code-camp"></i></a></p>
     </footer>
+    <!-- End of footer section -->
   </body>
 </html>
