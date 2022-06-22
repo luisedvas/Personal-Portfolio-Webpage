@@ -1,7 +1,7 @@
 # Personal-Portfolio-Webpage
 Personal Portfolio
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
   <head>
     <meta charset="UTF-8">
     <title>Personal Portfolio Webpage</title>
@@ -16,6 +16,7 @@ Personal Portfolio
         <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
+    <!-- Welcome section -->
     <section id="welcome-section" class="welcome-section">
       <h1 class="heading-1">Hey I am Mimic</h1>
       <p class="paragrafo">a web developer</p>
