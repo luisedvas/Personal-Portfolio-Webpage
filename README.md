@@ -19,7 +19,7 @@ Personal Portfolio
     </nav>
     <!-- Welcome section -->
     <section id="welcome-section" class="welcome-section">
-      <h1 class="heading-1">Hey I am Mimic</h1>
+      <h1 class="heading-1">Hey I am Luis</h1>
       <p class="paragrafo">a web developer</p>
     </section>
     <!-- End of welcome section -->
